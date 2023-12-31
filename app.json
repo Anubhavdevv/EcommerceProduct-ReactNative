@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ShopNOW",
-    "slug": "shop-now",
+    "slug": "shopnow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,8 +30,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "27a5eb5a-f84f-4797-9dbc-df93e681cd67"
+        "projectId": "5ab3ae5b-235e-4bcb-811b-6322072f50b6"
       }
-    }
+    },
+    "owner": "sloppyworld"
   }
 }
